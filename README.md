@@ -8,3 +8,4 @@ Una prueba para hacer este blog
 * Y una repeticion de comandos para aumentar la practica
 * Creado por un wey
 * Incluye variedad de ejemplos en distintos programas
+* Disponible para ti wey
