@@ -7,3 +7,4 @@ Una prueba para hacer este blog
 * La manera de usar Github
 * Y una repeticion de comandos para aumentar la practica
 * Creado por un wey
+* Incluye variedad de ejemplos en distintos programas
