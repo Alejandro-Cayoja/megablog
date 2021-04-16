@@ -6,3 +6,4 @@ Una prueba para hacer este blog
 * Una gran variedad de comandos de Git
 * La manera de usar Github
 * Y una repeticion de comandos para aumentar la practica
+* Creado por un wey
